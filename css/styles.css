@@ -1,4 +1,7 @@
-
+.navbar-brand {
+align:left;
+Margin-left:99px;
+} 
 
 div > p {
   text-align: justify;
