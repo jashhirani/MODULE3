@@ -13,13 +13,12 @@ div > p {
 .content-cell h2 {
   margin-top: -5px;
 }
-.navbar-toggle{
-margin-left: 1000px;
-}
+
 /* Not XS screen */
 @media (min-width:768px){
-  #collapsable-nav {
-  }
+  .navbar-toggle{
+margin-left: 1000px;
+} 
 }
 
 /* XS screen */
