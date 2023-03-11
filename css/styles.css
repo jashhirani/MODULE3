@@ -14,12 +14,7 @@ div > p {
   margin-top: -5px;
 }
 
-/* Not XS screen */
-@media (min-width:1000px){
-  .navbar-toggle{
-margin-left: 1000px;
-} 
-}
+
 
 /* XS screen */
 @media (max-width:767px){
@@ -49,6 +44,6 @@ margin-left: 1000px;
   }
   #nav-list li:hover{
     font-weight: bold;
-    background-color: #BBE!BB;
+    background-color: #BBEABB;
   }
 }
