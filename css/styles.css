@@ -18,6 +18,58 @@ div > p {
 }
 
 
+@media (min-width:576px),(max-width:765px){
+ 
+
+  .navbar-toggle{
+margin-left: 360px;
+}
+}
+
+@media (min-width:300px),(max-width:320px){
+ 
+
+  .navbar-toggle{
+margin-left: 190px;
+}
+}
+
+@media (min-width:325px),(max-width:428px){
+ 
+
+  .navbar-toggle{
+margin-left: 290px;
+}
+}
+
+@media (min-width:425px),(max-width:428px){
+ 
+
+  .navbar-toggle{
+margin-left: 290px;
+}
+}
+@media(min-width:768px){
+ #collapsable-nav {
+    visibility: hidden;
+  }  
+}
+
+/* Not XS screen */
+@media (min-width:768px),(max-width991px){
+ 
+
+  .navbar-toggle{
+margin-left: 500px;
+}
+
+}
+@media(min-width:992px){
+  .navbar-toggle{
+margin-left: 880px;
+}
+
+}
 
 /* XS screen */
 @media (max-width:767px){
