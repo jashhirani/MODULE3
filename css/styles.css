@@ -8,7 +8,7 @@ div > p {
 }
 
 .content-cell {
-  background-color: #BBDDBB;
+  background-color: #BBDAFC;
   margin-bottom: 15px;
   padding: 10px 15px;
 }
@@ -84,7 +84,7 @@ margin-left: 880px;
   }
   
   #collapsable-nav {
-    background-color: #BBEEBB;
+    background-color: #BBDAFC;
   }
   
   #nav-list {   
@@ -99,6 +99,6 @@ margin-left: 880px;
   }
   #nav-list li:hover{
     font-weight: bold;
-    background-color: #BBEABB;
+    background-color: #BBDAFC;
   }
 }
